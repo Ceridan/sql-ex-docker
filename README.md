@@ -2,7 +2,7 @@
 This repository contains Dockerfile to build an image based on microsoft/mssql-server-linux and apply sql-ex database creation scripts. It allows you to solve sql-ex exercises locally and get benefits from syntax highlighting in your IDE and so on.
 
 ## Prerequisites
-You need to install [Docker](https://www.docker.com/)S
+You need to install [Docker](https://www.docker.com/)
 
 ## How to build an image
 1. Clone this repository.
